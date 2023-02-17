@@ -4,7 +4,7 @@
 
 :pouting_man:Occupation: Web Backend Engineer
 
-:crossed_swords:Language: `Go`, `Java`, `C++`, `Js`, `Lua`, `Python`
+:crossed_swords:Language: `Go`, `Java`, `Js`
 
 :badminton:Hobbies: Badminton enthusiasts, mountain bike enthusiasts
 
