@@ -10,6 +10,6 @@
 
 :man_student:Education: Undergraduate student
 
-:bulb:home page：[Person Blog](vegetableprogrammer.top)
+:bulb:home page：[Person Blog](http://www.vegetableprogrammer.top/)
 
-:bulb:my note：[Golang Docs](golang.halfiisland.com)
+🗺️:my note：[Golang Docs](https://golang.halfiisland.com/)
