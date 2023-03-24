@@ -10,4 +10,6 @@
 
 :man_student:Education: Undergraduate student
 
-:bulb:home page：[Go中文学习文档 (halfiisland.com)](https://golang.halfiisland.com/)
+:bulb:home page：[Person Blog](vegetableprogrammer.top)
+
+:bulb:my note：[Golang Docs](golang.halfiisland.com)
