@@ -12,4 +12,4 @@
 
 :bulb:home page：[Person Blog](http://www.vegetableprogrammer.top/)
 
-🗺️:my note：[Golang Docs](https://golang.halfiisland.com/)
+🗺️note：[Golang Docs](https://golang.halfiisland.com/)
