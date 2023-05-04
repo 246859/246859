@@ -44,7 +44,11 @@
 
 ### Github statisitc
 
-<div align="center" style="display:flex;justify-content: space-between;">
+<div align="center">  
+  <img src="https://streak-stats.demolab.com?user=246859&theme=radical)](https://git.io/streak-stats"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" style="height:200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246859&layout=compact" style="height:200px"/>
 </div>
