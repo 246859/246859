@@ -2,19 +2,32 @@
 
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47y4f1evwyc6npynv29sp6c5rz5s1tycchkbzw8vih&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:100%;height:400px;border-radius:50%"/>
+  <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47y4f1evwyc6npynv29sp6c5rz5s1tycchkbzw8vih&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:100%;height:400px;border-radius:50%;margin:10px"/>
+  
+  
+  a free coder
 </div>
 
----
-
 ### My Blog
+
+[Site](https://246859.github.io/) | [Repo](https://github.com/246859/246859.github.io)
+
 ![](https://public-1308755698.cos.ap-chongqing.myqcloud.com//img/202305041145685.png)
 
 [Unicode字符集及其编码实现 - 2023/04/06](https://246859.github.io/posts/code/unicode.html)
 
 [Typora配合图床搭建教程 - 2023/03/24](https://246859.github.io/posts/code/pic.html)
 
-[神界原罪2测评 - 2023/04/02](https://246859.github.io/posts/game/divinity.html)
+### Golang Site
+[Site](https://golang.halfiisland.com/) | [Repo](https://github.com/CQUT-Programmer/Golang-Doc)
+
+![](https://public-1308755698.cos.ap-chongqing.myqcloud.com//img/202305041153605.png)
+
+[Go函数 - 2023/02/13](https://golang.halfiisland.com/%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/%E8%AF%AD%E6%B3%95%E8%BF%9B%E9%98%B6/75.func.html)
+
+[Go泛型 - 2023/02/22](https://golang.halfiisland.com/%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/%E8%AF%AD%E6%B3%95%E8%BF%9B%E9%98%B6/90.generic.html)
+
+[Go切片原理 - 2022/10/17](https://golang.halfiisland.com/%E8%AF%AD%E8%A8%80%E8%BF%9B%E9%98%B6/%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/slice.html)
 
 ---
 
