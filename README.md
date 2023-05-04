@@ -21,6 +21,9 @@
 ### Golang Site
 [Site](https://golang.halfiisland.com/) | [Repo](https://github.com/CQUT-Programmer/Golang-Doc)
 
+![](https://img.shields.io/static/v1?label=view&message=3k%2B/months&color=blue)
+![](https://img.shields.io/badge/article-30%2B-green)
+
 ![](https://public-1308755698.cos.ap-chongqing.myqcloud.com//img/202305041153605.png)
 
 [Go函数 - 2023/02/13](https://golang.halfiisland.com/%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/%E8%AF%AD%E6%B3%95%E8%BF%9B%E9%98%B6/75.func.html)
