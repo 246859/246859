@@ -5,7 +5,7 @@
 
 <div>
 
-# Hello👋, I am hanjiang
+# Hi👋, I am hanjiang
 
 👨‍🎓education: undergraduate
 
