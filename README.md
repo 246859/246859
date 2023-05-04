@@ -50,3 +50,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=246859&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+       
+<div align="center">
+  <img src="https://media0.giphy.com/media/mTs11L9uuyGiI/giphy.gif?cid=ecf05e47mib8miebyim25jpzsrvwy9kqse5liuudfm30r1sf&ep=v1_stickers_search&rid=giphy.gif&ct=s" 
+       style="width:100%"/> 
+</div>
+
