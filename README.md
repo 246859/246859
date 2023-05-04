@@ -1,11 +1,20 @@
-### Hello 👋
-
-
 <div align="center">
   <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47y4f1evwyc6npynv29sp6c5rz5s1tycchkbzw8vih&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:100%;height:400px;border-radius:50%;margin:10px"/>
   
-  
- Although the road is endless and faraway, I still want to pursue the truth in the world.
+</div>
+
+<div>
+
+# Hello👋, I am hanjiang
+
+👨‍🎓education: undergraduate
+
+🚀skill: Backend Engineer
+
+🎏language: Go, Java, Js, Ts
+
+🚴hobby: mountain bike
+
 </div>
 
 ### My Blog
