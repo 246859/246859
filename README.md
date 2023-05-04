@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246859&layout=compact" style="height:200px"/>
 </div>
 
-### Commit History
+### Last 31 days
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=246859&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
