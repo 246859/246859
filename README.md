@@ -39,12 +39,8 @@
 ### Github statisitc
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246859&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" style="height:100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246859&layout=compact" style="height:100px"/>
 </div>
 
-### Top language
-<div align="center">
-  
-</div>
 
