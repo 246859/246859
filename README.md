@@ -14,4 +14,4 @@
 
 🗺️note：[Golang Docs](https://golang.halfiisland.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark)
