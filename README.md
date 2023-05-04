@@ -54,5 +54,6 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/mTs11L9uuyGiI/giphy.gif?cid=ecf05e47mib8miebyim25jpzsrvwy9kqse5liuudfm30r1sf&ep=v1_stickers_search&rid=giphy.gif&ct=s" 
        style="width:100%"/> 
+  If you like this this, you can give me a star
 </div>
 
