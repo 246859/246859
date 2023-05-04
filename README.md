@@ -10,9 +10,9 @@
 
 :man_student:Education: Undergraduate student
 
-:bulb:home page：[Person Blog](https://246859.github.io/)
+:bulb:blog：[Person Blog](https://246859.github.io/)
 
-🗺️note：[Golang Docs](https://golang.halfiisland.com/)
+🗺️site：[Golang Docs](https://golang.halfiisland.com/)
 
 ---
 
