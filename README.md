@@ -3,18 +3,15 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47y4f1evwyc6npynv29sp6c5rz5s1tycchkbzw8vih&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:100%;height:400px;border-radius:50%"/>
-  
-:crossed_swords:Language: `Go`, `Java`, `Js`
-
-:badminton:Hobbies: mountain bike enthusiasts
-
-:man_student:Education: Undergraduate student
-
-:bulb:blog：[Person Blog](https://246859.github.io/)
-
-🗺️site：[Golang Docs](https://golang.halfiisland.com/)
 </div>
 
+---
+
+### My Blog
+
+<div align="center">
+  <img src="https://public-1308755698.cos.ap-chongqing.myqcloud.com//img/202305041130387.png" />
+</div>
 
 ---
 
