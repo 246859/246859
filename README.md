@@ -23,6 +23,8 @@
 
 ![](https://img.shields.io/static/v1?label=view&message=3k%2B/months&color=blue)
 ![](https://img.shields.io/badge/article-30%2B-green)
+![](https://img.shields.io/badge/star-17-orange)
+![](https://img.shields.io/badge/fork-15-red)
 
 ![](https://public-1308755698.cos.ap-chongqing.myqcloud.com//img/202305041153605.png)
 
