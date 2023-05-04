@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/42080442?s=400&u=e3d975eb3a2a59934ed79bc04e4e90d84ee5f219&v=4" style="width:100px;height:100px;border-radius:50%"/>
+  <img src="https://media1.giphy.com/media/3o6ZtekN7LuGnulfAQ/giphy.gif?cid=ecf05e47f6dv1ruqd5aq18dbwvkzfna87j0dtahcnm60mk7j&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:400px;height:400px;border-radius:50%"/>
   
 :crossed_swords:Language: `Go`, `Java`, `Js`
 
