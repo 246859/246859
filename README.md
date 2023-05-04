@@ -44,9 +44,12 @@
 
 ### Github statisitc
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=246859&theme=radical)](https://git.io/streak-stats)
+
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=246859&theme=radical)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=246859&theme=radical" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" style="height:200px"/>
