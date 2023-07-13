@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif?cid=ecf05e47y4f1evwyc6npynv29sp6c5rz5s1tycchkbzw8vih&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width:100%;height:400px;border-radius:50%;margin:10px"/>
-  
-</div>
-
 <div>
 
 # Hi👋, I am hanjiang
@@ -77,8 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" style="height:200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246859&layout=compact" style="height:200px"/>
 </div>
-
-### Last 31 days
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=246859&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
