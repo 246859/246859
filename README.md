@@ -2,7 +2,7 @@
 I'm yihao.wang living at CN.
 
 * 👨‍🎓education: undergraduate from [CQUT](https://www.cqut.edu.cn/)
-* 🚀skills: go, js, , java, python...
+* 🚀skills: go, js, java, python...
 * 🚴hobby: mountain bike, programming
 * 📧concat: dstgowilson@foxmail.com
 
