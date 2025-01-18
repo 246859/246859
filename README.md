@@ -1,12 +1,17 @@
-## Hi there👋
-I'm yihao.wang living at CN.
+## Welcome! 👋
+I'm YihaoWang from China.
 
-* 👨‍🎓education: undergraduate from [CQUT](https://www.cqut.edu.cn/)
-* 🚀skills: go, js, java, python...
-* 🚴hobby: mountain bike, programming
-* 📧email: dstgowilson@foxmail.com
+👨‍🎓Education: undergraduate from [CQUT](https://www.cqut.edu.cn/)
 
-Welcome to my blog [246859.github.io](https://246859.github.io/) and [Golang Document](https://golang.halfiisland.com/).
+🚀Skills: Go, Js, Java, Python and more
+
+🚴Hobby: Mountain bike, Programming
+
+📧Email: [yihaow@dstgo.cn](mailto:yihaow@dstgo.cn)
+
+✍️Blog: [246859.github.io](https://246859.github.io/)
+
+<br/>
 
 <div style="display: flex; flex-direction: flex-col">
   <img src="https://github-readme-stats.vercel.app/api?username=246859&show_icons=true&theme=onedark" style="height: 200px"/>
